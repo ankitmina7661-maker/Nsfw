@@ -1,4 +1,15 @@
 import os
+import tempfile
+
+# Model cache ke liye writable folder (home read-only hai)
+CACHE = "/data/cache"
+try:
+    os.makedirs(CACHE, exist_ok=True)
+except OSError:
+    CACHE = tempfile.gettempdir()
+os.environ["HOME"] = CACHE
+os.environ["XDG_CACHE_HOME"] = CACHE
+
 import re
 import io
 import asyncio
@@ -9,7 +20,7 @@ import nsfwpy
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
-TOKEN = os.environ["BOT_TOKEN"]
+TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN") or os.environ["BOT_TOKEN"]
 
 # Sakhti yahan se set karo (kam value = zyada sakht)
 PORN_LIMIT = 0.50   # Porn + Hentai ka total
