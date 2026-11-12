@@ -1,5 +1,8 @@
 # Ek line = ek word. 4 letter tak ke words sirf poore word ki tarah match hote hain.
+# Lambe words spaces/dots/repeat letters ke saath bhi pakde jate hain.
 # Apne hisaab se add/remove karo.
+
+# ---------- 18+ ----------
 porn
 porno
 pornhub
@@ -25,11 +28,6 @@ hentai
 onlyfans
 chudai
 chodai
-chut
-lund
-lauda
-gand
-randi
 bhosd
 bhosdi
 bf video
@@ -42,3 +40,69 @@ desi sex
 adult video
 18+
 
+# ---------- English abuse ----------
+fuck
+fucker
+fucking
+fuckyou
+motherfucker
+mf
+shit
+bullshit
+bitch
+bastard
+asshole
+dickhead
+cunt
+slut
+whore
+retard
+moron
+idiot
+
+# ---------- Hindi / Hinglish abuse ----------
+madarchod
+maderchod
+madarchodd
+mdrchod
+behenchod
+bhenchod
+behnchod
+benchod
+bhosdike
+bhosdiwale
+bhosdika
+bhosadi
+bhosda
+chutiya
+chutiye
+chutia
+chutiyapa
+chutmarike
+chut
+lund
+lauda
+lawda
+loda
+gand
+gandu
+gaandu
+gandmara
+randi
+raand
+randwa
+harami
+haramkhor
+haramzada
+haramzade
+bhadwa
+bhadve
+bhadwe
+maa ki chut
+maa ka bhosda
+bhen ki chut
+behen ki chut
+lund le
+lund chus
+gand mara
+gand marao
