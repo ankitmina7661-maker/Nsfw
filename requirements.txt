@@ -1,4 +1,0 @@
-python-telegram-bot==21.6
-nsfwpy-onnx==1.0.8
-pillow
-numpy
